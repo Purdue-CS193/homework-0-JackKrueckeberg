@@ -17,6 +17,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+-193 will give me some good resources
+-193 shouldn't be too daunting on my first semester 
+-193 is an opportunity to meet new cs people
 
 1. Numbered
 2. List
